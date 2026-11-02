@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Економічна безпека ПАР - Головна</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html" class="active">Головна</a>
+            <a href="analytics.html">Аналіз економічної безпеки</a>
+        </nav>
+    </header>
+
+    <main class="container">
+        <section class="profile-card">
+            <h1>Погребовський Олександр Анатолійович</h1>
+            <p class="status"><strong>Професійний статус:</strong> Студент / Дослідник</p>
+            
+            <div class="info-block">
+                <h2>Освіта</h2>
+                <p>Студент освітньої програми з економічної безпеки та державного фінансового моніторингу.</p>
+            </div>
+
+            <div class="info-block">
+                <h2>Наукові та професійні інтереси</h2>
+                <p>Економічна безпека держав, аналіз макроекономічних індикаторів розвинених країн та країн регіону BRICS (зокрема ПАР), використання інформаційних технологій і великих даних (Data Mining) у державному управлінні.</p>
+            </div>
+
+            <div class="info-block">
+                <h2>Контактні дані</h2>
+                <p>📧 Email: pogrebovskyi@example.com</p>
+                <p>🌐 GitHub: <a href="https://github.com/username" target="_blank">github.com/username</a></p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Погребовський Олександр. Усі права захищені.</p>
+    </footer>
+</body>
+</html>
